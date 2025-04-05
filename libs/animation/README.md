@@ -1,5 +1,7 @@
-#Animation
-##usage
+# Animation 
+
+## usage
+
 lorem
 ```ts
 function getanimation(): void{
